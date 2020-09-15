@@ -3,7 +3,7 @@
 
 ## <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakship1920" alt="sakshipathak" /> </p>
 
-- 🔭 `Recent Project` submitted for **[AWS DATA-EXCHANGE Hackathon, USA](https://github.com/ArshdeepSahni/aws_covid_care)**
+- 🔭 `Recent Projects` based on **web Development and Chatbots using ML**
 
 - 🌱 I’m **`currently learning`** about developing **`CHATBOTS`.**
 
