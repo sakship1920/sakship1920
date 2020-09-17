@@ -5,7 +5,7 @@
 
 - 🔭 `Recent Projects` based on **web Development and Chatbots using ML**
 
-- 🌱 I’m **`currently learning`** about developing **`CHATBOTS`.**
+- 🌱 I’m **`currently learning`** about developing **`CHATBOTS`,`Machine Learning`.**
 
 - 👯 I’m looking to **`collaborate`** on **`Machine Learning Projects`**
 
